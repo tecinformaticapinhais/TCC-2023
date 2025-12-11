@@ -1,6 +1,5 @@
-# TCC-2023
+# Trabalhos de Conclusão de Curso (2023)
 
-## Olá 👋
 
 Trabalhos de conclusão de curso desenvolvidos pelos alunos da da turma de 2023:
 
